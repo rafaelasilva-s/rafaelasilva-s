@@ -1,9 +1,10 @@
-## 📌 Descrição
-Página HTML simples criada para prática de estrutura básica e marcação.
+## 📌 Página HTML Básica
+
+Projeto desenvolvido para prática de estruturação de páginas web utilizando HTML.
 
 ## 🛠️ Tecnologias
 - HTML5
 
 ## 🎯 Objetivo
-Praticar os fundamentos de HTML e iniciar a construção do portfólio no GitHub.
+Aplicar conceitos iniciais de HTML e iniciar a construção do portfólio no GitHub.
 
